@@ -1,0 +1,1 @@
+puts (1...61).to_a.sample(6).sort.join(', ')
